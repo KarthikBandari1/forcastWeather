@@ -18,8 +18,14 @@
     "sudo": "^1.0.3"
   },
   "scripts": {
+<<<<<<< HEAD
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
+=======
+      "start": "react-scripts start",
+   "build": "react-scripts build",
+
+>>>>>>> a94ac312b03c194e6f43b76e7878830a4d111cdd
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
